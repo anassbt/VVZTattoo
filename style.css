@@ -46,3 +46,21 @@ body {
   text-align: center;
   color: white;
 }
+.background2 {
+  background-image: url(img/0112132f93e039f6dc61c65000f5aa83.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.background3 {
+  background-image: url(img/images.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.background4 {
+  background-image: url(img/95f9b2e73aeb2fbee8303d0cb550c18b.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
