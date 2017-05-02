@@ -135,6 +135,75 @@ figure {
     text-align: center;
 }
 
+.contact {
+  text-align: center;
+}
+
+.contact iframe{
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.contact input[name="submitcont"]{
+  width: 50%;
+  background: #650d1b;
+  color: white;
+}
+
+.contact input{
+  width: 80%;
+}
+
+.contact textarea{
+  padding: 8px;
+  width: 80%;
+  height: 50px;
+}
+
+.contact img{
+  width: 8%;
+}
+
+h3{
+  margin: 3% auto;
+}
+
+h3 img{
+  width: 6%;
+}
+
+ #map img{
+   width: 3%;
+ }
+
+#telmail{
+  border: 1px lightgrey solid;
+  margin: 5% auto;
+  padding: 5px 15px ;
+}
+
+#telmail h4{
+  font-size: 20px;
+}
+
+/*contact page end*/
+
+/*blog page*/
+
+.containerb article{
+  margin: 5% 0;
+  border: 1px lightgrey solid;
+  padding: 10px;
+}
+
+.containerb p{
+  text-align: justify;
+}
+
+.containerb h2{
+  margin-bottom: 5%;
+}
+
 footer {
   border: 3px solid black;
   background-color: pink;
@@ -158,9 +227,6 @@ div {
   margin: 10px;
 }
 
-.un {
-
-}
 
 @media (min-width: 1024px){
 
@@ -178,3 +244,12 @@ div {
     margin: 10px;
   }
   }
+  .exemple img{
+    width: 220px;
+  }
+
+  .exemple{
+    width: 48%;
+    display: flex;
+    margin: 15px auto;
+}
